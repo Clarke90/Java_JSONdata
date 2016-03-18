@@ -35,7 +35,6 @@
     });
     request.send();
 
-})();
 
 // jquery smooth scroller from id to id 
     $(document).ready(function(){
@@ -52,3 +51,12 @@
 	    });
 	});
 });
+
+
+
+
+
+
+
+})();
+

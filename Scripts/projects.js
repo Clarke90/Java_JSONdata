@@ -4,7 +4,7 @@
     "use strict";
     // Instantiate new xhr object
     var request = new XMLHttpRequest();
-    request.open('GET', '../projects.json', true);
+    request.open('GET', '../index.json', true);
     request.addEventListener('readystatechange', function() {
         // wait for file to finish loading
         if (request.readyState === 4 && request.status === 200) {

@@ -1,1 +1,118 @@
 /* custom syle sheet */
+
+nav .navbar-inverse{
+    background-color: red;
+    position: relative;
+    background-attachment: fixed;
+}
+.header {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background: url(../Content/css/img/white.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-top: -5%;
+}
+#logo{
+ position:absolute;
+left:0;
+top:0;
+}
+p{
+    font-size: 20px;
+}
+ul .li{
+    font-size: 20px;
+}
+#skills{
+    margin-bottom: 5%;
+}
+#aboutParagraph{
+    margin-top: 17%;
+}
+#skills i{
+  font-size: 20em;  
+  color: #02bdd5;
+}
+#intro{
+    margin-top: 15%;
+}
+#callToAction{
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 250px;
+    background: url(../Content/css/img/calltoaction.png) repeat center center scroll;
+}
+#callToActionText{
+    margin-top: 5%;
+}
+#contact{
+    margin-bottom: 5%;
+}
+.ion-paper-airplane{
+    font-size: 80px;
+}
+span{
+    color: #02bdd5;
+}
+hr{
+    width: 20%;
+   
+}
+/*footer starts here */
+#footer {
+  background: #222;
+  padding: 25px 0;
+  color: #555;
+}
+#footer .copyright {
+  font-size: 13px;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+#footer .copyright a {
+  color: #02bdd5;
+}
+#footer .social {
+  text-align: right;
+  margin-bottom: 0;
+}
+#footer .social li {
+  display: inline-block;
+  margin-right: 15px;
+}
+#footer .social li a {
+  font-size: 22px;
+  color: #02bdd5;
+}
+.cd-headline.slide .cd-words-wrapper {
+  color: #02bdd5;
+}
+ul.social-icons {
+  height: auto;
+  overflow: hidden;
+  list-style: none !important;
+  margin-bottom: 10px;
+}
+ul.social-icons li {
+  float: none;
+  display: inline-block;
+  height: 36px;
+}
+#copyright a:hover,
+#copyright nav .menu li a:hover {
+  color: #e4e4e4!important;
+}
+#copyright a,
+#copyright a:hover {
+  text-decoration: none;
+}
+small{
+    color: #02bdd5;
+}
+/*footer ends */

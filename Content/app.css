@@ -17,6 +17,9 @@ nav .navbar-inverse{
     -o-background-size: cover;
     margin-top: -5%;
 }
+#family{
+    margin-top: -10%;
+}
 #logo{
  position:absolute;
 left:0;

@@ -10,7 +10,7 @@ nav .navbar-inverse{
     position: relative;
     width: 100%;
     height: 500px;
-    background: url(../Content/css/img/white.jpg) no-repeat center center scroll;
+   
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
